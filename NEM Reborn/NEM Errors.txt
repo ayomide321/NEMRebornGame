@@ -1,0 +1,3322 @@
+Started New Server
+runtime error: Cannot execute null.Join().
+proc name: New (/mob/New)
+  source file: System.- Skills.dm,3307
+  usr: the mob (/mob)
+  src: the mob (/mob)
+  call stack:
+the mob (/mob): New()
+the mob (/mob): New()
+Dragonpearl123 (/client): New()
+Dragonpearl123 (/client): New()
+runtime error: Cannot read null.Got_Village
+proc name: Login (/mob/Login)
+  source file: System.- Procs.dm,4116
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Login()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Time_Played
+proc name: Count Time (/mob/proc/Count_Time)
+  source file: System.- Procs.dm,3948
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Count Time()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+  usr: Dragonpearl123 (/mob)
+  src: Dragonpearl123 (/mob)
+  call stack:
+Dragonpearl123 (/mob): Stat()
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Ryo
+proc name: Shop (/mob/verb/Shop)
+  source file: System.- Characters.dm,810
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+runtime error: Cannot read null.Name
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,161
+Warning: further proc crash messages are being suppressed to prevent overload...
+Started New Server
+Started New Server
+runtime error: Safety violation: tried to access 'C:\Users\hp\Desktop\NEM Reborn\Saves\Guest-1174855721.sav' outside of current directory.
+proc name: LoadScores (/mob/proc/LoadScores)
+  source file: System.- Procs.dm,2582
+  usr: Guest-1174855721 (/mob)
+  src: Guest-1174855721 (/mob)
+  call stack:
+Guest-1174855721 (/mob): LoadScores()
+Guest-1174855721 (/mob): Login()
+Guest-1174855721 (/client): New()
+Guest-1174855721 (/client): New()
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+runtime error: Safety violation: tried to access 'C:\Users\462282\Dropbox\NEM Reborn\Logs\Global\February ~Tuesday #09.txt' outside of current directory.
+proc name: Add (/Log/proc/Add)
+  source file: System - Logs.dm,93
+  usr: Nagato (/mob)
+  src: /Log (/Log)
+  usr.loc: the turf (198,135,13) (/turf)
+  call stack:
+/Log (/Log): Add("*Dragonpearl123 created NPC Ka...", 1)
+Nagato (/mob): Create NPC()
+Started New Server
+Started New Server
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (244,123,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (244,123,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (245,123,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (245,123,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (242,123,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (241,123,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (241,123,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (239,123,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (237,123,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (237,122,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (237,120,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+runtime error: Division by zero
+proc name: Stat (/mob/Stat)
+  source file: System.- Stat Tab.dm,91
+  usr: (src)
+  src: Pein (/mob)
+  src.loc: the turf (237,116,9) (/turf)
+  call stack:
+Pein (/mob): Stat()
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (47,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (47,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (47,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (47,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (80,24,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (62,22,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (62,22,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (62,22,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (62,22,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (131,21,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (131,21,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (131,21,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (131,21,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (136,21,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (130,21,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (130,21,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (130,21,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (130,21,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+Started New Server
+World opened on network port 1254.
+Started New Server
+World opened on network port 1254.
+Started New Server
+World opened on network port 1254.
+Started New Server
+World opened on network port 1254.
+Started New Server
+Started New Server
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (266,33,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (266,33,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (266,33,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (266,33,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: Stage 1 (276,32,1) (/turf/Stage_1)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (180,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (180,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (180,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (180,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: Wall Stand (181,9,1) (/turf/Wall_Stand)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: Stage 1 (131,9,1) (/turf/Stage_1)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (155,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (155,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (155,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3402
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (155,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+proc name: RankingDisplay (/proc/RankingDisplay)
+  source file: System.- Scoreboard.dm,23
+  usr: Nagato (/mob)
+  src: null
+  usr.loc: the turf (195,21,4) (/turf)
+  call stack:
+RankingDisplay(Yondaime (/mob))
+Score Time(/NEM_Round (/NEM_Round))
+Reset World(/NEM_Round (/NEM_Round))
+Check Winner(/NEM_Round (/NEM_Round))
+BYOND Error: failed to certify Nelson745
+Started New Server
+Started New Server
+Sat Feb 13 17:36:59 2016
+World opened on network port 1254.
+Started New Server
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (126,12,4) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (154,12,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (154,12,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (154,12,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (154,12,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (126,12,4) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (125,12,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (125,12,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (125,12,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (125,12,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+Started New Server
+Started New Server
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (202,29,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (209,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (209,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (209,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (209,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (207,29,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (205,29,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (185,22,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (210,29,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (211,29,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+server mem usage:
+Prototypes:
+	obj: 289336 (2036)
+	mob: 292840 (219)
+	proc: 2312892 (2907)
+	str: 556965 (11546)
+	appearance: 1203429 (3108)
+	id array: 2322820 (6706)
+	map: 194379792 (451,200,19)
+objects:
+	mobs: 24816 (7)
+	objs: 254560 (1291)
+	datums: 16688 (138)
+	lists: 28424 (455)
+server mem usage:
+Prototypes:
+	obj: 289336 (2036)
+	mob: 292840 (219)
+	proc: 2312892 (2907)
+	str: 556965 (11546)
+	appearance: 1203429 (3108)
+	id array: 2322820 (6706)
+	map: 194379792 (451,200,19)
+objects:
+	mobs: 24832 (7)
+	objs: 254560 (1291)
+	datums: 16688 (138)
+	lists: 28424 (455)
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (198,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (198,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (198,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (198,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (203,29,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+Started New Server
+World opened on network port 1255.
+Sun Feb 14 16:54:03 2016
+World opened on network port 1255.
+Mon Feb 15 10:34:32 2016
+World opened on network port 1255.
+Mon Feb 15 17:20:39 2016
+World opened on network port 1255.
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Dragonpearl123 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Dragonpearl123 (/mob/other/choosing_character): Logout()
+the lolmasd (/mob/characters/Human): Read(players/d/dragonpearl123.sav (/savefile))
+Dragonpearl123 (/mob/other/choosing_character): LoadCharacter("lolmasd")
+Dragonpearl123 (/mob/other/choosing_character): ChooseCharacter()
+Dragonpearl123 (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: Dragonpearl123 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Dragonpearl123 (/mob/other/choosing_character): Login()
+Dragonpearl123 (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the sand (31,107,1) (/turf/sand)
+  call stack:
+the lolmasd (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Jamarcus mosley (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Jamarcus mosley (/mob/other/choosing_character): Logout()
+Jamarcus mosley (/mob/other/choosing_character): CreateNewCharacter()
+Jamarcus mosley (/mob/other/choosing_character): ChooseCharacter()
+Jamarcus mosley (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: Jamarcus mosley (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Jamarcus mosley (/mob/other/choosing_character): Login()
+Jamarcus mosley (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Mamoru Akasaka (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Mamoru Akasaka (/mob/other/choosing_character): Logout()
+Mamoru Akasaka (/mob/other/choosing_character): CreateNewCharacter()
+Mamoru Akasaka (/mob/other/choosing_character): ChooseCharacter()
+Mamoru Akasaka (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: Mamoru Akasaka (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Mamoru Akasaka (/mob/other/choosing_character): Login()
+Mamoru Akasaka (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Slayer86 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Slayer86 (/mob/other/choosing_character): Logout()
+Slayer86 (/mob/other/choosing_character): CreateNewCharacter()
+Slayer86 (/mob/other/choosing_character): ChooseCharacter()
+Slayer86 (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: Slayer86 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Slayer86 (/mob/other/choosing_character): Login()
+Slayer86 (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Prayuda Bondan (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Prayuda Bondan (/mob/other/choosing_character): Logout()
+Prayuda Bondan (/mob/other/choosing_character): CreateNewCharacter()
+Prayuda Bondan (/mob/other/choosing_character): ChooseCharacter()
+Prayuda Bondan (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: Prayuda Bondan (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Prayuda Bondan (/mob/other/choosing_character): Login()
+Prayuda Bondan (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: GonzalO0349 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+GonzalO0349 (/mob/other/choosing_character): Logout()
+GonzalO0349 (/mob/other/choosing_character): CreateNewCharacter()
+GonzalO0349 (/mob/other/choosing_character): ChooseCharacter()
+GonzalO0349 (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: GonzalO0349 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+GonzalO0349 (/mob/other/choosing_character): Login()
+GonzalO0349 (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Mamo (/mob/characters/Mage)
+  src.loc: the grass (45,38,1) (/turf/grass)
+  call stack:
+Mamo (/mob/characters/Mage): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Bondan (/mob/characters/Human)
+  src.loc: the grass (15,12,2) (/turf/grass)
+  call stack:
+Bondan (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Mamo (/mob/characters/Mage)
+  src.loc: the grass (44,39,1) (/turf/grass)
+  call stack:
+Mamo (/mob/characters/Mage): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Jamarcus MOsley (/mob/characters/Human)
+  src.loc: the stairs (45,32,1) (/turf/stairs)
+  call stack:
+Jamarcus MOsley (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the stairs (44,32,1) (/turf/stairs)
+  call stack:
+the lolmasd (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Shomai (/mob/characters/Human)
+  src.loc: the grass (27,53,1) (/turf/grass)
+  call stack:
+Shomai (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+World opened on network port 1255.
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Flamedestroyer (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Flamedestroyer (/mob/other/choosing_character): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Jamarcus mosley (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Jamarcus mosley (/mob/other/choosing_character): Logout()
+Jamarcus MOsley (/mob/characters/Human): Read(players/j/jamarcusmosley.sav (/savefile))
+Jamarcus mosley (/mob/other/choosing_character): LoadCharacter("jamarcusmosley")
+Jamarcus mosley (/mob/other/choosing_character): ChooseCharacter()
+Jamarcus mosley (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: Jamarcus mosley (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Jamarcus mosley (/mob/other/choosing_character): Login()
+Jamarcus mosley (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Dragonpearl123 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Dragonpearl123 (/mob/other/choosing_character): Logout()
+the lolmasd (/mob/characters/Human): Read(players/d/dragonpearl123.sav (/savefile))
+Dragonpearl123 (/mob/other/choosing_character): LoadCharacter("lolmasd")
+Dragonpearl123 (/mob/other/choosing_character): ChooseCharacter()
+Dragonpearl123 (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: Dragonpearl123 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Dragonpearl123 (/mob/other/choosing_character): Login()
+Dragonpearl123 (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Enzoh (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Enzoh (/mob/other/choosing_character): Logout()
+Enzoh (/mob/other/choosing_character): CreateNewCharacter()
+Enzoh (/mob/other/choosing_character): ChooseCharacter()
+Enzoh (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: Enzoh (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Enzoh (/mob/other/choosing_character): Login()
+Enzoh (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Goku977 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Goku977 (/mob/other/choosing_character): Logout()
+Goku977 (/mob/other/choosing_character): CreateNewCharacter()
+Goku977 (/mob/other/choosing_character): ChooseCharacter()
+Goku977 (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: Goku977 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Goku977 (/mob/other/choosing_character): Login()
+Goku977 (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: GonzalO0349 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+GonzalO0349 (/mob/other/choosing_character): Logout()
+Saitama (/mob/characters/Human): Read(players/g/gonzalo0349.sav (/savefile))
+GonzalO0349 (/mob/other/choosing_character): LoadCharacter("saitama")
+GonzalO0349 (/mob/other/choosing_character): ChooseCharacter()
+GonzalO0349 (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: GonzalO0349 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+GonzalO0349 (/mob/other/choosing_character): Login()
+GonzalO0349 (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: DoogiehowserMD (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+DoogiehowserMD (/mob/other/choosing_character): Logout()
+DoogiehowserMD (/mob/other/choosing_character): CreateNewCharacter()
+DoogiehowserMD (/mob/other/choosing_character): ChooseCharacter()
+DoogiehowserMD (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: DoogiehowserMD (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+DoogiehowserMD (/mob/other/choosing_character): Login()
+DoogiehowserMD (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Grion (/mob/characters/Human)
+  src.loc: the dirt (48,36,1) (/turf/dirt)
+  call stack:
+Grion (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Geran Zaphod (/mob/characters/Human)
+  src.loc: the grass (37,26,1) (/turf/grass)
+  call stack:
+Geran Zaphod (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Mamoru Akasaka (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Mamoru Akasaka (/mob/other/choosing_character): Logout()
+Mamo (/mob/characters/Mage): Read(players/m/mamoruakasaka.sav (/savefile))
+Mamoru Akasaka (/mob/other/choosing_character): LoadCharacter("mamo")
+Mamoru Akasaka (/mob/other/choosing_character): ChooseCharacter()
+Mamoru Akasaka (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,100
+  usr: (src)
+  src: Mamoru Akasaka (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Mamoru Akasaka (/mob/other/choosing_character): Login()
+Mamoru Akasaka (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Saitama (/mob/characters/Human)
+  src.loc: the sand (26,110,1) (/turf/sand)
+  call stack:
+Saitama (/mob/characters/Human): Logout()
+Mon Feb 15 18:23:31 2016
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+  usr: (src)
+  src: Jamarcus MOsley (/mob/characters/Human)
+  src.loc: the grass (6,121,1) (/turf/grass)
+  call stack:
+Jamarcus MOsley (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,115
+Started New Server
+World opened on network port 1255.
+Started New Server
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (108,57,4) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (107,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (107,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (107,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (107,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (113,58,4) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+Wed Feb 17 16:20:06 2016
+World opened on network port 1255.
+World opened on network port 1255.
+World opened on network port 1256.
+World opened on network port 1522.
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Dragonpearl123 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Dragonpearl123 (/mob/other/choosing_character): Logout()
+the lolmasd (/mob/characters/Human): Read(players/d/dragonpearl123.sav (/savefile))
+Dragonpearl123 (/mob/other/choosing_character): LoadCharacter("lolmasd")
+Dragonpearl123 (/mob/other/choosing_character): ChooseCharacter()
+Dragonpearl123 (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,101
+  usr: (src)
+  src: Dragonpearl123 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Dragonpearl123 (/mob/other/choosing_character): Login()
+Dragonpearl123 (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Jamarcus mosley (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Jamarcus mosley (/mob/other/choosing_character): Logout()
+Jamarcus MOsley (/mob/characters/Human): Read(players/j/jamarcusmosley.sav (/savefile))
+Jamarcus mosley (/mob/other/choosing_character): LoadCharacter("jamarcusmosley")
+Jamarcus mosley (/mob/other/choosing_character): ChooseCharacter()
+Jamarcus mosley (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,101
+  usr: (src)
+  src: Jamarcus mosley (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Jamarcus mosley (/mob/other/choosing_character): Login()
+Jamarcus mosley (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.ko
+proc name: Finish (/mob/verb/Finish)
+  source file: battle.dm,42
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the grass (23,146,1) (/turf/grass)
+  call stack:
+the lolmasd (/mob/characters/Human): Finish()
+runtime error: Cannot read null.ko
+proc name: Finish (/mob/verb/Finish)
+  source file: battle.dm,42
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the grass (23,146,1) (/turf/grass)
+  call stack:
+the lolmasd (/mob/characters/Human): Finish()
+runtime error: Cannot read null.ko
+proc name: Finish (/mob/verb/Finish)
+  source file: battle.dm,42
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the grass (23,146,1) (/turf/grass)
+  call stack:
+the lolmasd (/mob/characters/Human): Finish()
+runtime error: Cannot read null.ko
+proc name: Finish (/mob/verb/Finish)
+  source file: battle.dm,42
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the grass (23,146,1) (/turf/grass)
+  call stack:
+the lolmasd (/mob/characters/Human): Finish()
+runtime error: Cannot read null.ko
+proc name: Finish (/mob/verb/Finish)
+  source file: battle.dm,42
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the grass (24,147,1) (/turf/grass)
+  call stack:
+the lolmasd (/mob/characters/Human): Finish()
+runtime error: Cannot read null.ko
+proc name: Finish (/mob/verb/Finish)
+  source file: battle.dm,42
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the grass (24,147,1) (/turf/grass)
+  call stack:
+the lolmasd (/mob/characters/Human): Finish()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: TheRedReaper (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+TheRedReaper (/mob/other/choosing_character): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: TheRedReaper (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+TheRedReaper (/mob/other/choosing_character): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: TheRedReaper (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+TheRedReaper (/mob/other/choosing_character): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: TheRedReaper (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+TheRedReaper (/mob/other/choosing_character): Logout()
+TheRedReaper (/mob/other/choosing_character): CreateNewCharacter()
+TheRedReaper (/mob/other/choosing_character): ChooseCharacter()
+TheRedReaper (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,101
+  usr: (src)
+  src: TheRedReaper (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+TheRedReaper (/mob/other/choosing_character): Login()
+TheRedReaper (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Saitama (/mob/characters/Human)
+  src.loc: the dirt (48,40,1) (/turf/dirt)
+  call stack:
+Saitama (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the grass (21,140,1) (/turf/grass)
+  call stack:
+the lolmasd (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the dirt (47,35,1) (/turf/dirt)
+  call stack:
+the lolmasd (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Jamarcus MOsley (/mob/characters/Human)
+  src.loc: the grass (22,137,1) (/turf/grass)
+  call stack:
+Jamarcus MOsley (/mob/characters/Human): Logout()
+World opened on network port 1522.
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Dragonpearl123 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Dragonpearl123 (/mob/other/choosing_character): Logout()
+the lolmasd (/mob/characters/Human): Read(players/d/dragonpearl123.sav (/savefile))
+Dragonpearl123 (/mob/other/choosing_character): LoadCharacter("lolmasd")
+Dragonpearl123 (/mob/other/choosing_character): ChooseCharacter()
+Dragonpearl123 (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,101
+  usr: (src)
+  src: Dragonpearl123 (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Dragonpearl123 (/mob/other/choosing_character): Login()
+Dragonpearl123 (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Jamarcus mosley (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Jamarcus mosley (/mob/other/choosing_character): Logout()
+Jamarcus MOsley (/mob/characters/Human): Read(players/j/jamarcusmosley.sav (/savefile))
+Jamarcus mosley (/mob/other/choosing_character): LoadCharacter("jamarcusmosley")
+Jamarcus mosley (/mob/other/choosing_character): ChooseCharacter()
+Jamarcus mosley (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,101
+  usr: (src)
+  src: Jamarcus mosley (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Jamarcus mosley (/mob/other/choosing_character): Login()
+Jamarcus mosley (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Arakness (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Arakness (/mob/other/choosing_character): Logout()
+Arakness (/mob/other/choosing_character): CreateNewCharacter()
+Arakness (/mob/other/choosing_character): ChooseCharacter()
+Arakness (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,101
+  usr: (src)
+  src: Arakness (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Arakness (/mob/other/choosing_character): Login()
+Arakness (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Covertsuperx (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Covertsuperx (/mob/other/choosing_character): Logout()
+Covertsuperx (/mob/other/choosing_character): CreateNewCharacter()
+Covertsuperx (/mob/other/choosing_character): ChooseCharacter()
+Covertsuperx (/mob/other/choosing_character): Login()
+runtime error: Cannot read null.oldmob
+proc name: Login (/mob/Login)
+  source file: Start.dm,101
+  usr: (src)
+  src: Covertsuperx (/mob/other/choosing_character)
+  src.loc: null
+  call stack:
+Covertsuperx (/mob/other/choosing_character): Login()
+Covertsuperx (/mob/other/choosing_character): Login()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Kasuma (/mob/characters/Mage)
+  src.loc: the sand (22,116,1) (/turf/sand)
+  call stack:
+Kasuma (/mob/characters/Mage): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: the covertX (/mob/characters/Human)
+  src.loc: the sand (45,28,1) (/turf/sand)
+  call stack:
+the covertX (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Kasuma (/mob/characters/Mage)
+  src.loc: the sand (35,113,1) (/turf/sand)
+  call stack:
+Kasuma (/mob/characters/Mage): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: the lolmasd (/mob/characters/Human)
+  src.loc: the stairs (32,105,1) (/turf/stairs)
+  call stack:
+the lolmasd (/mob/characters/Human): Logout()
+runtime error: Cannot execute null.Save().
+proc name: Logout (/mob/Logout)
+  source file: Start.dm,118
+  usr: (src)
+  src: Jamarcus MOsley (/mob/characters/Human)
+  src.loc: the grass (43,38,1) (/turf/grass)
+  call stack:
+Jamarcus MOsley (/mob/characters/Human): Logout()
+World opened on network port 1522.
+Started New Server
+Wed Feb 17 21:12:21 2016
+World opened on network port 1522.
+Started New Server
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (102,60,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (102,60,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (102,60,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (102,60,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (117,57,4) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (118,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (118,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (118,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (118,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (110,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (110,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (110,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (110,57,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (153,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (153,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (153,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (153,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (139,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Stage 1 (139,9,1) (/turf/Stage_1)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+Thu Feb 18 16:33:18 2016
+World opened on network port 1522.
+Started New Server
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (58,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (58,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (58,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (58,29,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (77,22,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (77,22,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (77,22,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (77,22,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (97,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (97,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (97,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (97,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (106,8,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (149,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (149,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (149,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (149,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+Started New Server
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (139,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (139,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (139,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (139,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (134,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (134,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (134,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (134,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (135,8,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (147,8,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (145,8,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (124,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (124,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (124,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (124,8,7) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (136,8,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (236,124,9) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Floor (227,115,9) (/turf/Sand/Floor)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: Floor (227,115,9) (/turf/Sand/Floor)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+runtime error: Cannot read null.NEM_Round
+proc name: Join (/NEM_Round/proc/Join)
+  source file: System.- Rounds.dm,517
+runtime error: Cannot read null.NEM_Round
+proc name: Join (/NEM_Round/proc/Join)
+  source file: System.- Rounds.dm,517
+Started New Server
+Started New Server
+Started New Server
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (110,8,7) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (377,159,13) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (377,159,13) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (377,159,13) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (377,159,13) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (419,166,13) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (427,159,13) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (427,159,13) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (427,159,13) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (427,159,13) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+World opened on network port 1414.
+Started New Server
+Fri Mar 11 11:01:43 2016
+World opened on network port 1414.
+Started New Server
+Started New Server
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (221,44,4) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (193,21,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (193,21,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (193,21,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: Ashura Ball (/mob/Ultimate_Projectile/AshuraBall)
+  src.loc: the turf (193,21,4) (/turf)
+  call stack:
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): Teleport ("Straight", null)
+Ashura Ball (/mob/Ultimate_Projectile/AshuraBall): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Ashura Balls()
+Chakra Balls (5) - Cooldown: 1... (/obj/Jutsus/Ashura_Ball): Click()
+(Ashura) Naruto (/mob): Skill5()
+(Ashura) Naruto (/mob): key down("5")
+(Ashura) Naruto (/mob): KeyDown("5")
+runtime error: Cannot read "Straight".loc
+proc name: Teleport  (/mob/proc/Teleport_)
+  source file: System.- Skills.dm,3403
+  usr: (src)
+  src: RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX)
+  src.loc: the turf (141,12,4) (/turf)
+  call stack:
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): Teleport ("Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+RasenshurikenXX (/mob/Ultimate_Projectile/RasenshurikenXX): New(null, (Ashura) Naruto (/mob), null, "Straight", null)
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Throw RasenshurikenXX()
+Ultimate Rasen Shuriken (6) - ... (/obj/Jutsus/Throw_RasenshurikenXX): Click()
+(Ashura) Naruto (/mob): Skill6()
+(Ashura) Naruto (/mob): key down("6")
+(Ashura) Naruto (/mob): KeyDown("6")
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+Started New Server
+runtime error: Safety violation: tried to access 'C:\Users\462282\Desktop\NEM Reborn\Scoreboard.sav' outside of current directory.
+proc name: Score Time (/proc/Score_Time)
+  source file: System.- Rounds.dm,606
+  usr: Rock Lee (/mob)
+  src: null
+  usr.loc: the turf (28,49,4) (/turf)
+  call stack:
+Score Time(/NEM_Round (/NEM_Round))
+Reset World(/NEM_Round (/NEM_Round))
+Check Winner(/NEM_Round (/NEM_Round))
+runtime error: Safety violation: tried to access 'C:\Users\462282\Desktop\NEM Reborn\Scoreboard.sav' outside of current directory.
+proc name: Reset World (/proc/Reset_World)
+  source file: System.- World Round.dm,180
+  usr: Rock Lee (/mob)
+  src: null
+  usr.loc: the turf (28,49,4) (/turf)
+  call stack:
+Reset World(/NEM_Round (/NEM_Round))
+Check Winner(/NEM_Round (/NEM_Round))
+Started New Server
